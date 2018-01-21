@@ -14,13 +14,13 @@ public class DisableInMode : MonoBehaviour
     void Start ()
     {
         //VR - DISABLE
-        if(UnityEngine.VR.VRSettings.enabled && !VrObject)
+        if(UnityEngine.XR.XRSettings.enabled && !VrObject)
         {
             gameObject.SetActive(false);
         }
 
         //Non VR - DISABLE
-        else if (!UnityEngine.VR.VRSettings.enabled && VrObject)
+        else if (!UnityEngine.XR.XRSettings.enabled && VrObject)
         {
             gameObject.SetActive(false);
         }
