@@ -20,7 +20,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 950, y: 542}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -109,7 +109,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 492}
   m_MaxSize: {x: 18008, y: 14042}
   vertical: 0
-  controlID: 21
+  controlID: 93
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -133,7 +133,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 492}
   m_MaxSize: {x: 14006, y: 14042}
   vertical: 1
-  controlID: 22
+  controlID: 94
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -157,7 +157,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 221}
   m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
-  controlID: 23
+  controlID: 95
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -233,7 +233,7 @@ MonoBehaviour:
   m_MinSize: {x: 336, y: 271}
   m_MaxSize: {x: 14006, y: 10021}
   vertical: 0
-  controlID: 48
+  controlID: 120
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -250,7 +250,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 795
+    width: 869
     height: 271
   m_MinSize: {x: 232, y: 271}
   m_MaxSize: {x: 10002, y: 10021}
@@ -273,9 +273,9 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 795
+    x: 869
     y: 0
-    width: 848
+    width: 774
     height: 271
   m_MinSize: {x: 104, y: 121}
   m_MaxSize: {x: 4004, y: 4021}
@@ -308,9 +308,8 @@ MonoBehaviour:
   m_Panes:
   - {fileID: 20}
   - {fileID: 21}
-  - {fileID: 22}
   m_Selected: 0
-  m_LastSelected: 2
+  m_LastSelected: 1
 --- !u!114 &14
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -467,14 +466,14 @@ MonoBehaviour:
     width: 1406
     height: 655
   m_SceneLighting: 1
-  lastFramingTime: 4082.628520317842
+  lastFramingTime: 695.226907352128
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 15.000376, y: -8.405336, z: 9.230085}
+    m_Target: {x: -2.3284178, y: 2.1814947, z: -1.525677}
     speed: 2
-    m_Value: {x: 15.000376, y: -8.405336, z: 9.230085}
+    m_Value: {x: -2.3284178, y: 2.1814947, z: -1.525677}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -497,13 +496,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.20213465, y: 0.4910576, z: -0.1182983, w: 0.8390528}
+    m_Target: {x: 0.24291636, y: 0.2531391, z: -0.06582551, w: 0.9341195}
     speed: 2
-    m_Value: {x: 0.20213465, y: 0.4910576, z: -0.1182983, w: 0.8390528}
+    m_Value: {x: 0.24291636, y: 0.2531391, z: -0.06582551, w: 0.9341195}
   m_Size:
-    m_Target: 22
+    m_Target: 2.0208292
     speed: 2
-    m_Value: 22
+    m_Value: 2.0208292
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -564,7 +563,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 768
-    width: 793
+    width: 867
     height: 250
   m_SearchFilter:
     m_NameFilter: 
@@ -584,27 +583,27 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: 96
-  m_LastProjectPath: C:\Users\Cael\Documents\Virtual Reality Sandbox
+  m_LastProjectPath: C:\Users\Cael\Documents\GitHub\Vr-Sandbox\Virtual Reality Sandbox
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 12280000
     m_LastClickedID: 10258
-    m_ExpandedIDs: 0000000012280000d2280000222900002e2900003a290000c2290000ca290000d2290000dc290000122a0000922a00000e2b0000242b00005c2b0000ffffff7f
+    m_ExpandedIDs: 0000000012280000d2280000222900002e2900003a290000c0290000c8290000d0290000da290000102a00008e2a00000a2b0000202b0000582b000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: All Prefabs
-      m_OriginalName: All Prefabs
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 1000000004
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 11}
     m_SearchString: 
@@ -618,7 +617,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000122800001e280000d228000022290000262900002e2900003a290000c2290000ca290000d2290000dc290000122a0000922a00000e2b0000242b00005c2b0000
+    m_ExpandedIDs: 0000000012280000d2280000222900002e2900003a290000c0290000c8290000d0290000da290000102a00008e2a00000a2b0000202b0000582b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -695,9 +694,9 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 797
+    x: 871
     y: 768
-    width: 844
+    width: 770
     height: 250
 --- !u!114 &20
 MonoBehaviour:
@@ -753,11 +752,11 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 1362
+    x: 1645
     y: 92
-    width: 558
+    width: 275
     height: 926
-  m_InitialOpenURL: https://public-cdn.cloud.unity3d.com/editor/production/cloud/hub
+  m_InitialOpenURL: https://public-cdn.cloud.unity3d.com/editor/production/cloud/collab
   m_GlobalObjectTypeName: 
   m_RegisteredViewURLs:
   - https://public-cdn.cloud.unity3d.com/editor/production/cloud/hub
@@ -768,35 +767,4 @@ MonoBehaviour:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
-  - {fileID: 0}
---- !u!114 &22
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 1
-  m_Script: {fileID: 12158, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_AutoRepaintOnSceneChange: 0
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_TitleContent:
-    m_Text: Collab History
-    m_Image: {fileID: 0}
-    m_Tooltip: 
-  m_DepthBufferBits: 0
-  m_Pos:
-    serializedVersion: 2
-    x: 1609
-    y: 92
-    width: 311
-    height: 926
-  m_InitialOpenURL: file:///C:/Users/Cael/AppData/Roaming/Unity/Packages/node_modules/unityeditor-collab-history/dist/index.html
-  m_GlobalObjectTypeName: 
-  m_RegisteredViewURLs:
-  - file:///C:/Users/Cael/AppData/Roaming/Unity/Packages/node_modules/unityeditor-collab-history/dist/index.html
-  m_RegisteredViewInstances:
   - {fileID: 0}
