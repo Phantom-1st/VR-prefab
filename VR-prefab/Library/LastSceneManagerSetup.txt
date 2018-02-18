@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Virtual Reality Sandbox.unity
+- path: Assets/Vr-Prefab.unity
   isLoaded: 1
   isActive: 1
